@@ -407,3 +407,6 @@ function showError(message) {
     DOM.errorMessage.textContent = message;
     showScreen('error');
 }
+// ตัวอย่างการเรียกใช้หลัง createBooking
+// var userId = data.userId; // หรือระบุ userId ที่ต้องการ
+// sendLineFlexMessage(userId, flexContent);
