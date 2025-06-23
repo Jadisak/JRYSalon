@@ -6,7 +6,7 @@
 const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyI6c5msafsPiZA3Zk2MBuom2szPXgyJFCnrocotHtB4QYxoDmHAskRDLZTzJKo6vyzNg/exec"; // <-- PASTE YOUR URL
 
 // 2. PASTE YOUR LIFF ID FROM THE LINE DEVELOPERS CONSOLE HERE
-const LIFF_ID = "2007571126-5jj0dZOB"; // <-- PASTE YOUR LIFF ID
+const LIFF_ID = "2007571126-Q5gerkyD"; // <-- PASTE YOUR LIFF ID
 
 // =================================================================================
 // --- GLOBAL STATE & DOM ELEMENTS ---
